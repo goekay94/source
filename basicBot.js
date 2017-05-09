@@ -1931,8 +1931,8 @@
                 }
             },
 
-            cookieCommand: {
-                command: 'cookie',
+            HakCommand: {
+                command: 'Hak',
                 rank: 'user',
                 type: 'startsWith',
                 getCookie: function (chat) {
